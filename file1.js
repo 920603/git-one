@@ -1,5 +1,1 @@
-hello;
-test;
-sdfkjsdflksdjf;
-dsfjsdflkdsjf;
-dfdsf;
+console.log("The net ninja");
